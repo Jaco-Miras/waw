@@ -1,0 +1,18 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "description": "- [X] hello git\r - [X] learnyounode\r - [X] javascripting",
+  "main": "index.js",
+  "scripts": {
+    "start": "learnyounode",
+    "verify": "learnyounode verify make-it-modular.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "learnyounode": "^4.2.1"
+  },
+  "devDependencies": {}
+}
