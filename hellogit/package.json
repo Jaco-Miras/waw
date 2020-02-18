@@ -1,0 +1,14 @@
+{
+  "name": "hellogit",
+  "version": "1.0.0",
+  "description": "- [x] Hellogit\r - [ ] learnyounode\r - [ ] javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "hellogit",
+    "verify": "hellogit verify index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
